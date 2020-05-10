@@ -10,7 +10,7 @@ Project 2 for Machine learning course for Software and Knowledge Engineering, Ka
 
 install required libraries
 ```sh
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 run jupyter notebook
 ```sh
